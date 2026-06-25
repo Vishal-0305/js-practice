@@ -34,7 +34,7 @@ buttons.forEach(function (button) {
 });
 
 ```
-## project 2 solution
+## project 2 solution code
 
 ```javascript
 const form = document.querySelector('form');
