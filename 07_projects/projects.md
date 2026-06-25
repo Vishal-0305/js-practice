@@ -33,10 +33,10 @@ buttons.forEach(function (button) {
   });
 });
 
+```
+## project 2 solution
 
-## project 2 soluti
-
-
+```javascript
 const form = document.querySelector('form');
 // this usecase will give you empty
 // const height = parseInt(document.querySelector('#height').value)
@@ -58,6 +58,10 @@ form.addEventListener('submit', function (e) {
     results.innerHTML = `<span>${bmi}</span>`;
   }
 });
+
+```
+
+## project 3 solution code
 
 
 
